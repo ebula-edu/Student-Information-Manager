@@ -1,4 +1,4 @@
-        let data = [];
+let data = [];
 
         function load() {
             let saved = localStorage.getItem("list");
@@ -26,7 +26,6 @@
                 
                 let img = document.createElement("img");
                 img.src = "empty.png";
-                img.alt = "Empty";
                 img.className = "empty-image";
                 
                 let msg1 = document.createElement("p");
@@ -133,13 +132,12 @@
             load();
             
             document.getElementById("addBtn").onclick = function() {
-                clear();
+                clear(); 
                 showForm();
             };
             
             document.getElementById("saveBtn").onclick = add;
             
             document.getElementById("cancelBtn").onclick = hideForm;
-            
-          
+             
         };
