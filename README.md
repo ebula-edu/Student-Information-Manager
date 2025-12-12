@@ -5,17 +5,17 @@
 
 ---
 
+## **Professor**
+- **Ervin Garcia**  
+
+---
+
 ## **Group 1 – Listah**
 - **Eldtex Delos Reyes Bula**  
 - **Mark Angelo Bernales**  
 - **Renzo Devilla**  
 - **Marvin Abella**  
 - **Jimwel Selvio**
-
----
-
-## **Professor**
-- **Ervin Garcia**  
 
 ---
 
