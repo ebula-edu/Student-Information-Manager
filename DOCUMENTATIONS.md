@@ -14,9 +14,8 @@ This document provides a comprehensive guide for starting, understanding, and ma
 4. [HTML Files](#html-files)    
 5. [CSS Styling](#css-styling)    
 6. [JavaScript Functions](#javascript-functions)    
-7. [Assets](#assets)    
-8. [Usage Instructions](#usage-instructions)    
-9. [Development Notes](#development-notes)    
+7. [Usage Instructions](#usage-instructions)    
+8. [Development Notes](#development-notes)    
 
 ---
 
