@@ -40,35 +40,38 @@ Users can add, view, and remove student information through a clean, approachabl
 
 ### **Student Management**
 
-* Add new student records with **Name**, **Year**, and **Section**
-* Instantly delete student entries
-* Real-time updates in the student list
+- Add new student records with **Name**, **Year**, and **Section**
+- Instantly delete student entries
+- Real-time updates in the student list
 
 ### **User Experience and Design**
 
-* Dynamic list animations for engaging interactions
-* Animated empty state for visual feedback
-* Clean, modern, and easy-to-understand interface
-* Carefully selected typography and color palette for readability
-* Responsive layout across desktop, tablet, and mobile
-* Intuitive form controls and button placement
-* Emphasis on **design aesthetics** for smooth, user-friendly navigation
+- Dynamic list animations for engaging interactions
+- Animated empty state for visual feedback
+- Clean, modern, and easy-to-understand interface
+- Carefully selected typography and color palette for readability
+- Responsive layout across desktop, tablet, and mobile
+- Intuitive form controls and button placement
+- Emphasis on **design aesthetics** for smooth, user-friendly navigation
 
 ### **Data Handling**
 
-* Persistent **local storage** retains data after page refresh or browser restart
-* Optimized for offline use and smooth performance
-* Structured and modular code for easy maintenance
+- Persistent **local storage** retains data after page refresh or browser restart
+- Optimized for offline use and smooth performance
+- Structured and modular code for easy maintenance
+
+---
+
+## **Project Resources**
+
+- 📘 [Full Documentation](DOCUMENTATIONS.md)
+- 📜 [License](LICENSE)
 
 ---
 
 ## **Live Project**
 
-<a href="https://eldrexdelosreyesbula.github.io/Student-Information-Manager/" target="_blank" style="text-decoration: none;">
-  <span style="display: inline-block; padding: 10px 20px; background-color: #4a6fa5; color: white; border-radius: 25px; font-weight: bold; font-size: 16px;">
-    View Live Project
-  </span>
-</a>
+[![View Live Project](https://img.shields.io/badge/View-Live%20Project-4a6fa5?style=for-the-badge&logo=github)](https://eldrexdelosreyesbula.github.io/Student-Information-Manager/)
 
 ---
 
@@ -76,32 +79,32 @@ Users can add, view, and remove student information through a clean, approachabl
 
 ### **Purpose of Images**
 
-* All images included in this project are used **strictly for educational and academic purposes**
-* The images support demonstrations, presentations, and documentation of the project
-* All images are **permitted and approved by the project team**
+- All images included in this project are used **strictly for educational and academic purposes**
+- The images support demonstrations, presentations, and documentation of the project
+- All images are **permitted and approved by the project team**
 
 ### **Humorous or Expressive Content**
 
-* Any playful, humorous, or expressive visuals of the project creators are **intentional**
-* These visuals add personality and engagement to the project
-* They are **not intended for ridicule**
+- Any playful, humorous, or expressive visuals of the project creators are **intentional**
+- These visuals add personality and engagement to the project
+- They are **not intended for ridicule**
 
 ### **Zero Tolerance Policy**
 
 The following actions are **strictly prohibited**:
 
-* Harassment, bullying, or cyberbullying of any project member
-* Mockery, misuse, or malicious editing of images
-* Redistribution or public posting of images without explicit permission
-* Using images for memes, defamatory content, or harmful purposes
+- Harassment, bullying, or cyberbullying of any project member
+- Mockery, misuse, or malicious editing of images
+- Redistribution or public posting of images without explicit permission
+- Using images for memes, defamatory content, or harmful purposes
 
 Violations compromise ethical standards and academic integrity.
 
 ### **Template and Reuse Guidelines**
 
-* If using this project as a **template or reference**, all personal images must be removed
-* Faces, photos, or personal visuals **must not be reused** under any circumstances
-* Only the structural code, layout, and logic may be studied or adapted
+- If using this project as a **template or reference**, all personal images must be removed
+- Faces, photos, or personal visuals **must not be reused** under any circumstances
+- Only the structural code, layout, and logic may be studied or adapted
 
 Failure to remove personal images when reusing the project is considered unauthorized use.
 
