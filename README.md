@@ -6,6 +6,8 @@
 
 #### *Computer Programming 1 Project*
 
+#### **Navotas Polytechnic College**
+
 ---
 
 ## **Professor**
@@ -30,7 +32,9 @@
 
 ## **Project Overview**
 
-**Listah** is a modern, intuitive, and fully responsive student information manager created as part of a **Computer Programming 1** academic requirement. The project is designed to efficiently organize, manage, and track student records while emphasizing simplicity, reliability, and visual clarity.
+**Listah** is a modern, intuitive, and fully responsive student information manager created as part of a **Computer Programming 1** academic requirement at **Navotas Polytechnic College**.
+
+The project is designed to efficiently organize, manage, and track student records while emphasizing simplicity, reliability, and visual clarity.
 
 Users can add, view, and remove student information through a clean, approachable interface. The project demonstrates good design principles, smooth interaction, and practical data handling suitable for beginner to intermediate programming concepts.
 
@@ -64,14 +68,9 @@ Users can add, view, and remove student information through a clean, approachabl
 
 ## **Project Resources**
 
-- 📘 [Full Documentation](DOCUMENTATIONS.md)
-- 📜 [License](LICENSE)
-
----
-
-## **Live Project**
-
-[![View Live Project](https://img.shields.io/badge/View-Live%20Project-4a6fa5?style=for-the-badge&logo=github)](https://eldrexdelosreyesbula.github.io/Student-Information-Manager/)
+- 📘 [View Full Documentation](DOCUMENTATIONS.md)
+- 📄 [View License](LICENSE)
+- 🌐 [Live Project](https://eldrexdelosreyesbula.github.io/Student-Information-Manager/)
 
 ---
 
@@ -112,7 +111,21 @@ Failure to remove personal images when reusing the project is considered unautho
 
 ## **Disclaimer**
 
-**Listah** is an academic project developed **for learning purposes only**. While it demonstrates functional student data management, it is **not intended for production use** or handling sensitive real-world student information.
+**Listah** is an academic project developed **for learning purposes only** at **Navotas Polytechnic College**.
+
+While it demonstrates functional student data management, it is **not intended for production use** or handling sensitive real-world student information.
+
+---
+
+## **Connect**
+
+You may reach out to the development team through the following official Facebook accounts:
+
+- **Eldrex Delos Reyes Bula** – [Eldrex Blog](https://eldrex-blog.vercel.app)
+- **Mark Angelo Bernales** – [Facebook Profile](https://www.facebook.com/markangelobagtas.bernales)
+- **Renzo Devilla** – [Facebook Profile](https://facebook.com/RenzoPDevilla)
+- **Marvin Abella** – [Facebook Profile](https://facebook.com/marvin.abella.58118)
+- **Jimwel Selvio** – [Facebook Profile](https://www.facebook.com/share/171C4n9ZWN/)
 
 ---
 
