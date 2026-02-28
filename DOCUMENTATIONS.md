@@ -42,20 +42,21 @@ The project emphasizes:
 ```bash
 Listah/
 ├─ assets/             # Folder for images
-│   ├─ LISTAH.jpg      # Project logo
-│   ├─ eldrex.png      # Eldrex profile image
-│   ├─ marvs.png       # Marvin alternate image
-│   ├─ marvin.png      # Marvin profile image
-│   ├─ mark.png        # Mark profile image
-│   ├─ jimwel.png      # Jimwel profile image
-│   └─ renzo.png       # Renzo profile image
+│   ├─ LISTAH.jpg      # Team
+│   ├─ eldrex.png      # Eldrex Bula
+│   ├─ marvs.png       # Marvin Abella
+│   ├─ marvin.png      # Marvin Abella
+│   ├─ mark.png        # Mark Angelo Bernales
+│   ├─ jimwel.png      # Jimwel 
+│   └─ renzo.png       # Renzo Devilla
 ├─ css/
 │   └─ main.css        # Styling for the project
 ├─ js/
 │   └─ main.js         # JavaScript functions
 ├─ main.html           # Main student management page
 ├─ index.html          # Loading screen page
-└─ README.md           # Project documentation
+├─ DOCUMENTATIONS.md   # Project documentation
+└─ README.md           # Introduction of Listah
 
 ```
 
@@ -64,7 +65,6 @@ Listah/
 Getting Started
 
 1. Clone the repository:
-
 
 
 ```git clone https://github.com/eldrexdelosreyesbula/Student-Information-Manager.git```
@@ -334,27 +334,19 @@ Usage Instructions
 
 1. Open index.html in a browser.
 
-
 2. Observe the loading screen animations.
-
 
 3. After loading, the main page appears with student management options.
 
-
 4. Click Add New Student to open the overlay form.
-
 
 5. Fill in Name, Year, and Section.
 
-
 6. Click Save to add student.
-
 
 7. Use Delete button to remove students.
 
-
 8. All changes are saved in browser localStorage and persist on refresh.
-
 
 
 
