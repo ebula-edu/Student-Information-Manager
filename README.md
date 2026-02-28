@@ -119,13 +119,13 @@ While it demonstrates functional student data management, it is **not intended f
 
 ## **Connect**
 
-You may reach out to the development team through the following official Facebook accounts:
+You may reach out to the development team through the following official accounts:
 
 - **Eldrex Delos Reyes Bula** – [Eldrex Blog](https://eldrex-blog.vercel.app)
-- **Mark Angelo Bernales** – [Facebook Profile](https://www.facebook.com/markangelobagtas.bernales)
-- **Renzo Devilla** – [Facebook Profile](https://facebook.com/RenzoPDevilla)
-- **Marvin Abella** – [Facebook Profile](https://facebook.com/marvin.abella.58118)
-- **Jimwel Selvio** – [Facebook Profile](https://www.facebook.com/share/171C4n9ZWN/)
+- **Mark Angelo Bernales** – [Facebook](https://www.facebook.com/markangelobagtas.bernales)
+- **Renzo Devilla** – [Facebook](https://facebook.com/RenzoPDevilla)
+- **Marvin Abella** – [Facebook](https://facebook.com/marvin.abella.58118)
+- **Jimwel Selvio** – [Facebook](https://www.facebook.com/share/171C4n9ZWN/)
 
 ---
 
