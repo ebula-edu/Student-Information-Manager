@@ -18,19 +18,21 @@
 
 | **Member**                  | **Role**                        |
 | --------------------------- | ------------------------------- |
-| **Eldtex Delos Reyes Bula** | Project Lead & UI/UX Design     |
+| **Eldrex Delos Reyes Bula** | Project Lead & UI/UX Design     |
 | **Mark Angelo Bernales**    | JavaScript Logic Specialist     |
 | **Renzo Devilla**           | JavaScript Logic Specialist     |
 | **Marvin Abella**           | File Handling & Data Management |
-| **Jimwel Selvio**           | App Demonstrations  |
+| **Jimwel Selvio**           | App Demonstrations              |
+
+> **Note:** Marvin Abella did not participate in the project defense but contributed to file handling and data management.
 
 ---
 
 ## **Project Overview**
 
-**Listah** is a modern, intuitive, and fully responsive student information manager created as part of a **Computer Programming 1** academic requirement. The project is designed to efficiently organize, manage, and track student records while prioritizing simplicity, reliability, and clarity.
+**Listah** is a modern, intuitive, and fully responsive student information manager created as part of a **Computer Programming 1** academic requirement. The project is designed to efficiently organize, manage, and track student records while emphasizing simplicity, reliability, and visual clarity.
 
-Users can easily add, view, and remove student information through a clean and approachable interface. The project emphasizes good design principles, smooth interaction, and practical data handling suitable for beginner to intermediate programming concepts.
+Users can add, view, and remove student information through a clean, approachable interface. The project demonstrates good design principles, smooth interaction, and practical data handling suitable for beginner to intermediate programming concepts.
 
 ---
 
@@ -40,23 +42,23 @@ Users can easily add, view, and remove student information through a clean and a
 
 * Add new student records with **Name**, **Year**, and **Section**
 * Instantly delete student entries
+* Real-time updates in the student list
 
-### **User Experience**
+### **User Experience and Design**
 
-* Dynamic student list with real time updates
-* Animated empty state for visual feedback and engagement
-* Clean, modern, and easy to understand interface
+* Dynamic list animations for engaging interactions
+* Animated empty state for visual feedback
+* Clean, modern, and easy-to-understand interface
+* Carefully selected typography and color palette for readability
+* Responsive layout across desktop, tablet, and mobile
+* Intuitive form controls and button placement
+* Emphasis on **design aesthetics** for smooth, user-friendly navigation
 
 ### **Data Handling**
 
-* Persistent **local storage** to retain data even after refresh or browser restart
+* Persistent **local storage** retains data after page refresh or browser restart
 * Optimized for offline use and smooth performance
-
-### **Design and Responsiveness**
-
-* Carefully selected typography and color palette for readability
-* Responsive layout that adapts across desktop, tablet, and mobile devices
-* Intuitive form controls and button placement
+* Structured and modular code for easy maintenance
 
 ---
 
@@ -70,20 +72,19 @@ Users can easily add, view, and remove student information through a clean and a
 
 ---
 
-## **Image Use, Conduct, and Educational Disclaimer**
-
-This repository may contain images, including photos of the project creators. Please read this section carefully.
+## **Image Use, Conduct, and Educational Notice**
 
 ### **Purpose of Images**
 
 * All images included in this project are used **strictly for educational and academic purposes**
-* The images are intended to support demonstrations, presentations, and documentation related to the project
-* The images used in this repository are **permitted and approved by the project team**
+* The images support demonstrations, presentations, and documentation of the project
+* All images are **permitted and approved by the project team**
 
-### **Humorous Content Notice**
+### **Humorous or Expressive Content**
 
-* Any humorous, playful, or expressive facial images of the project creators are **intentional**
-* These visuals are meant to add personality and engagement to the project and are **not an invitation for ridicule**
+* Any playful, humorous, or expressive visuals of the project creators are **intentional**
+* These visuals add personality and engagement to the project
+* They are **not intended for ridicule**
 
 ### **Zero Tolerance Policy**
 
@@ -92,15 +93,15 @@ The following actions are **strictly prohibited**:
 * Harassment, bullying, or cyberbullying of any project member
 * Mockery, misuse, or malicious editing of images
 * Redistribution or public posting of images without explicit permission
-* Using the images for memes, defamatory content, or harmful purposes
+* Using images for memes, defamatory content, or harmful purposes
 
-Any form of harassment or misuse violates ethical standards and academic integrity.
+Violations compromise ethical standards and academic integrity.
 
 ### **Template and Reuse Guidelines**
 
-* If you choose to use this project as a **template or reference**, all personal images of the project members **must be removed**
-* Faces, photos, or personal visuals included in this repository **must not be reused under any circumstances**
-* Only the structural code, layout ideas, or logic may be studied or adapted
+* If using this project as a **template or reference**, all personal images must be removed
+* Faces, photos, or personal visuals **must not be reused** under any circumstances
+* Only the structural code, layout, and logic may be studied or adapted
 
 Failure to remove personal images when reusing the project is considered unauthorized use.
 
@@ -108,7 +109,7 @@ Failure to remove personal images when reusing the project is considered unautho
 
 ## **Disclaimer**
 
-**Listah** is an academic project developed for learning purposes only. While it demonstrates functional student data management, it is not intended for production use or handling sensitive real world student data.
+**Listah** is an academic project developed **for learning purposes only**. While it demonstrates functional student data management, it is **not intended for production use** or handling sensitive real-world student information.
 
 ---
 
