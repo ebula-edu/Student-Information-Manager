@@ -45,9 +45,9 @@ Listah/
 │   ├─ LISTAH.jpg      # Team
 │   ├─ eldrex.png      # Eldrex Bula
 │   ├─ marvs.png       # Marvin Abella
-│   ├─ marvin.png      # Marvin Abella
+│   ├─ marvin.png      # Marvin Abella (not permitted)
 │   ├─ mark.png        # Mark Angelo Bernales
-│   ├─ jimwel.png      # Jimwel 
+│   ├─ jimwel.png      # Jimwel Selvio
 │   └─ renzo.png       # Renzo Devilla
 ├─ css/
 │   └─ main.css        # Styling for the project
