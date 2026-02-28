@@ -68,7 +68,7 @@ Getting Started
 
 
 
-git clone https://github.com/eldrexdelosreyesbula/Student-Information-Manager.git
+```git clone https://github.com/eldrexdelosreyesbula/Student-Information-Manager.git```
 
 2. Open index.html in a browser to view the loading screen.
 
@@ -124,7 +124,7 @@ css/main.css
 1. Global Styles
 
 
-
+```css
 * {
     margin: 0;
     padding: 0;
@@ -134,11 +134,11 @@ body {
     background: #f5f5f5;
     font-family: Arial, sans-serif;
 }
-
+```
 2. Header
 
 
-
+```css
 .header {
     background: #4a6fa5;
     color: white;
@@ -151,6 +151,7 @@ body {
     align-items: center;
     position: relative;
 }
+```
 
 3. Student List & Items
 
@@ -192,8 +193,9 @@ js/main.js
 
 Variables
 
+```javascript
 let data = []; // array storing student objects
-
+```
 1. load()
 
 Retrieves saved data from localStorage
@@ -202,12 +204,13 @@ Parses JSON string to object
 
 Calls show() to display the student list
 
-
+```javascript
 function load() {
     let saved = localStorage.getItem("list");
     data = saved ? JSON.parse(saved) : [];
     show();
 }
+```
 
 2. save()
 
@@ -217,12 +220,12 @@ Saves to localStorage
 
 Calls show() to update UI
 
-
+```javascript
 function save() {
     localStorage.setItem("list", JSON.stringify(data));
     show();
 }
-
+```
 3. show()
 
 Updates student list dynamically
@@ -231,7 +234,7 @@ Handles empty state with an image and message
 
 Loops through data to create elements for each student
 
-
+```html
 <div class="student-item">
     <div class="student-info">
         <h3>Student Name</h3>
@@ -241,9 +244,11 @@ Loops through data to create elements for each student
         <button class="delete-btn">Delete</button>
     </div>
 </div>
+```
 
 4. showForm() & hideForm()
 
+```javascript
 function showForm() {
     document.getElementById("overlay").style.display = "flex";
     document.getElementById("name").focus();
@@ -253,17 +258,19 @@ function hideForm() {
     document.getElementById("overlay").style.display = "none";
     clear();
 }
+```
 
 5. clear()
 
 Resets all form inputs (name, year, section)
 
-
+```javascript
 function clear() {
     document.getElementById("name").value = "";
     document.getElementById("year").value = "";
     document.getElementById("section").value = "";
 }
+```
 
 6. add()
 
@@ -271,7 +278,7 @@ Validates input fields
 
 Adds student object to data
 
-
+```javascript
 function add() {
     let n = document.getElementById("name").value;
     let y = document.getElementById("year").value;
@@ -288,6 +295,7 @@ function add() {
     save();
     hideForm();
 }
+```
 
 7. remove(index)
 
@@ -297,16 +305,18 @@ Removes student object from data using splice()
 
 Saves updated array
 
-
+```javascript
 function remove(index) {
     if (confirm("Are you sure you want to delete this student?")) {
         data.splice(index, 1);
         save();
     }
 }
+```
 
 8. Initialization
 
+```javascript
 window.onload = function() {
     load();
     document.getElementById("addBtn").onclick = function() {
@@ -316,29 +326,10 @@ window.onload = function() {
     document.getElementById("saveBtn").onclick = add;
     document.getElementById("cancelBtn").onclick = hideForm;
 };
-
-
----
-
-Assets
-
-File	Description
-
-LISTAH.jpg	Project logo
-eldrex.png	Eldrex profile image
-marvs.png	Marvin alternate image
-marvin.png	Marvin profile image
-mark.png	Mark profile image
-jimwel.png	Jimwel profile image
-renzo.png	Renzo profile image
-
-
-> Note: All images are for educational use only and must not be reused outside this project.
-
-
-
+```
 
 ---
+
 
 Usage Instructions
 
