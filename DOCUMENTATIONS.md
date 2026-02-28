@@ -1,41 +1,49 @@
-# Documentation
+# Student Information Manager Documentation
 
 ## Overview
-This document aims to provide all necessary information about the project, its setup, and usage in a structured manner.
+The Student Information Manager (SIM) is a web-based application designed to help educational institutions manage student data effectively. This application provides users with the ability to maintain, track, and analyze student information in a secure environment.
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
+## Features
+- **User Authentication:** Secure login through a robust user management system.
+- **Student Profiles:** Detailed profiles for each student containing personal, academic, and contact information.
+- **Course Management:** Tools to manage courses, including enrollments and schedules.
+- **Reports:** Generate reports for student performance, attendance, and more.
+- **Data Security:** Encryption and secure access controls to protect sensitive data.
 
-## Introduction
-Welcome to the Student Information Manager project. This application is designed to help manage student data effectively, making it easier for educational institutions to keep track of their students’ information.
+## Getting Started
+To get started with the Student Information Manager, follow these steps:
 
-## Installation
-1. Clone the repository:
+1. **Clone the Repository:**  
+   Clone this repository to your local machine using:
    ```bash
    git clone https://github.com/ebula-edu/Student-Information-Manager.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd Student-Information-Manager
-   ```
-3. Install the required dependencies:
+2. **Install Dependencies:**  
+   Navigate to the project directory and run:
    ```bash
    npm install
    ```
-
-## Usage
-- Start the application:
+3. **Run the Application:**  
+   Start the application with:
    ```bash
    npm start
    ```
-- Access the application in your browser at `http://localhost:3000`
+   Visit `http://localhost:3000` in your web browser.
 
 ## Contributing
-We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to get started.
+We welcome contributions from the community! To contribute:
+- Fork the repository.
+- Create a feature branch (`git checkout -b feature/YourFeature`).
+- Commit your changes (`git commit -m 'Add some feature'`).
+- Push to the branch (`git push origin feature/YourFeature`).
+- Open a pull request.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+For questions or suggestions, please contact us at [support@ebula-edu.org](mailto:support@ebula-edu.org).
+
+---
+
+*This documentation was last updated on **2026-02-28**.*
