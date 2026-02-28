@@ -58,6 +58,7 @@ Listah/
 ├─ index.html          # Loading screen page
 └─ README.md           # Project documentation
 
+```
 
 ---
 
