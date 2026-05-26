@@ -1,5 +1,6 @@
-# 📘 **Listah Documentation — Revise 3**
+<img width="1170" height="433" alt="listah" src="https://github.com/user-attachments/assets/7412e97e-f14c-411d-a095-2bdbf123c92e" />
 
+# 📘 **Listah Documentation **
 ### *Student Information Manager*
 
 #### *“Making student management more painful since Computer Programming 1.”* 😭
