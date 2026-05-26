@@ -1,4 +1,5 @@
-<img width="1170" height="433" alt="listah" src="https://github.com/user-attachments/assets/7412e97e-f14c-411d-a095-2bdbf123c92e" />
+<img width="639" height="237" alt="listah-logo" src="https://github.com/user-attachments/assets/e9a82e6d-8d93-441f-8c99-77334067b9b6" />
+
 
 # 📘 **Listah Documentation **
 ### *Student Information Manager*
