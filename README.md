@@ -1,4 +1,5 @@
-# ![Listah Logo](assets/LISTAH.jpg)
+<img width="639" height="237" alt="listah-team" src="https://github.com/user-attachments/assets/95f6c6ec-639c-4449-ba67-4c7d9dc5e63a" />
+
 
 # **Listah**
 
